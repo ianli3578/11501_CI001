@@ -15,3 +15,7 @@ This repository stores assignments, projects, and documentation for the CI001 co
 
 ## GitHub Pages Site
 Visit my personal website: [https://ianli3578.github.io/](https://ianli3578.github.io/)
+
+## File Organization
+- `README.md` — Contains course information and repository documentation.
+- Course files will be organized by assignments and projects.
