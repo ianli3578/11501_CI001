@@ -3,7 +3,7 @@
 ## Course Information
 - **Course ID**: 11501_CI001
 - **Course Name**: C++ Programming Laboratory (I)
-- **Instructor**: [Yu-Feng Huang](yfhuang@saturn.yzu.edu.tw)
+- **Instructor**: [Yu-Feng Huang](mailto:yfhuang@saturn.yzu.edu.tw)
 
 ## About Me
 - **Student ID**: 1121554
