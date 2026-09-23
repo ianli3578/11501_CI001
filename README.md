@@ -8,7 +8,7 @@
 ## About Me
 - **Student ID**: 1121554
 - **Student Name**: 李宇恩
-- **Student E-mail**: [李宇恩](s1121554@mail.yzu.edu.tw)
+- **Student E-mail**: [李宇恩](mailto:s1121554@mail.yzu.edu.tw)
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
